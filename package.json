@@ -27,10 +27,14 @@
   },
   "homepage": "https://github.com/letsrock-today/mock-local-storage",
   "devDependencies": {
+    "@types/chai": "^3.4.35",
+    "@types/mocha": "^2.2.40",
+    "@types/node": "6.0.56",
     "babel": "^5.0.9",
     "babel-core": "^5.1.8",
     "chai": "^2.2.0",
-    "mocha": "^2.2.1"
+    "mocha": "^2.2.1",
+    "typescript": "2.2.1"
   },
   "dependencies": {
     "core-js": "^0.8.3"
